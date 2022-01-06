@@ -1,5 +1,5 @@
 ---
-title:  "Welcome to my first posts"
+title:  "Welcome to my first blog post"
 date:   2022-01-05 08:40:25 +0000
 categories: update
 publish: true
